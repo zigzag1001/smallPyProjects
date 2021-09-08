@@ -1,0 +1,5 @@
+Literally presses "copy link adress" in google chrome, 
+i used this to get lots of interesting gifs for poggersBot so no clue if it works anywhere but tenor.com on chrome.
+
+To use create a folder in the same directory as the script and create a file in the folder, this file is where links will be pasted into. 
+Run the script, input the info, now pressing shift+a will try to click "copy link adress" and paste clipboard into file.

@@ -1,0 +1,3 @@
+Simple script to divide large texts into smaller portions that are within discords max charecter count.
+
+To use paste text into thing.txt and run divider.py

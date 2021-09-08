@@ -1,0 +1,5 @@
+Checks number of players on server, only good for small servers where people rarely play. 
+Every minute pings server and pastes number of players as well as date into log.txt.
+
+To use you will have to edit the script and input server adress. 
+This isnt a very user friendly project :)

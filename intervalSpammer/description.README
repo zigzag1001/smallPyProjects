@@ -1,0 +1,5 @@
+Script that picks a random line from words.txt, pastes it and presses enter.
+
+Originally made because a scammer was messaging me and i decided to have some fun.
+
+To use place words/sentances seperated by newlines into words.txt and run intervalSpammer.py
